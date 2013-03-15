@@ -1,3 +1,4 @@
+<pre>
 Bonsoir Agent 1337,
 Votre unité a identifié un site web de pâtissiers mafieux (Anonymousse). Votre objectif est de découvrir des informations secrètes sur cette organisation. La tâche ne sera pas aisée. Les développeurs de l'extranet aurait fait usage d'une multitude de mécanismes cryptographiques. Sécurité ou obscurité?
 
@@ -7,9 +8,11 @@ De manière optionnel, vous pouvez faire usage du script python "crypto.py". Il p
 Bonne chance!
 
 Bonus : Le fichier "chat_messages.txt" contiens une conversation chiffrée avec un chiffrement utilisé sur le site web.
+</pre>
 
 [secret_package.zip](secret_package.zip)
 
+<pre>
 -----BEGIN PGP SIGNATURE-----
 Version: 2.6.3a
 Charset: noconv
@@ -20,3 +23,4 @@ mZcD+XNnAaYCqFz8iIuAFVLchYeWj1Pqxxq0weGCtjQIrpzrmGxV7xXzK0jus+6V
 rML3TxQSwdA=
 =T9Mc
 -----END PGP SIGNATURE-----
+</pre>

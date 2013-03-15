@@ -1,14 +1,20 @@
 **Message**
 <pre>
 Bonsoir Agent 1337,
-Votre unité a identifié un site web de pâtissiers mafieux (Anonymousse). Votre objectif est de découvrir des informations secrètes sur cette organisation. La tâche ne sera pas aisée. Les développeurs de l'extranet aurait fait usage d'une multitude de mécanismes cryptographiques. Sécurité ou obscurité?
+Votre unité a identifié un site web de pâtissiers mafieux (Anonymousse). Votre objectif est de découvrir des 
+informations secrètes sur cette organisation. La tâche ne sera pas aisée. Les développeurs de l'extranet aurait 
+fait usage d'une multitude de mécanismes cryptographiques. Sécurité ou obscurité?
 
-Un agent a pu faire une capture intéressante voir pièce jointe "capture.pcap". Quelques indices sont à votre disposition soit des fichiers sources du site web (AesCipher.java et Rc4Cipher.java) et certaines données (debug_database.txt).
-De manière optionnel, vous pouvez faire usage du script python "crypto.py". Il pourrait vous être utile dans votre quête.
+Un agent a pu faire une capture intéressante voir pièce jointe "capture.pcap". Quelques indices sont à votre 
+disposition soit des fichiers sources du site web (AesCipher.java et Rc4Cipher.java) et certaines données 
+(debug_database.txt).
+De manière optionnel, vous pouvez faire usage du script python "crypto.py". Il pourrait vous être utile dans 
+votre quête.
 
 Bonne chance!
 
-Bonus : Le fichier "chat_messages.txt" contiens une conversation chiffrée avec un chiffrement utilisé sur le site web.
+Bonus : Le fichier "chat_messages.txt" contiens une conversation chiffrée avec un chiffrement utilisé sur le 
+site web.
 
 -----BEGIN PGP SIGNATURE-----
 Version: 2.6.3a
